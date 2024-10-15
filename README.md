@@ -1,29 +1,26 @@
-# Exercise-03c-Sound-And-Music
+# Project03-JuicyBreakout
 
-Exercise for MSCH-C220
+# Project Name
+Project 3 Octber 14 2024
 
-The second exercise adding "juicy" features to a simple brick-breaker game.
-
-## To play
-
-Move the paddle using the W and A. Help the ball break all the bricks before you run out of lives.
-
+Description
 
 ## Implementation
-
-Built using Unity 2022.3.45f
+Styleized Main menu
+Styleized End screen
+Background for levels
+Screen shakes when something occurs
+Sound effects, like the ball hitting the blocks or paddle
+Background Music
+Made pixel bricks
+Bricks fall into place when the game loads
+Brinks fall off the screenwhen hit
+Made a pixel slime ball
+A small comet trail to the ball
 
 ## References
- * [Juice it or lose it — a talk by Martin Jonasson & Petri Purho](https://www.youtube.com/watch?v=Fy0aCDmgnxg)
- * [Puzzle Pack 2, provided by kenney.nl](https://kenney.nl/assets/puzzle-pack-2)
- * [Open Color open source color scheme](https://yeun.github.io/open-color/)
- * [League Gothic Typeface](https://www.theleagueofmoveabletype.com/league-gothic)
- 
+BeetleJuice Musical
 
 ## Future Development
 
-Adding a face, Comet trail, Music and Sound, Shaders, etc.
-
-## Created by 
-
-Nathan Mishler
+## Created by Reki Atlas Clawthorne
